@@ -1,0 +1,26 @@
+# Environment variables (NEVER COMMIT THESE!)
+.env
+.env.local
+.env.*.local
+*.env
+# Python virtual environments
+venv/
+.venv/
+
+# Build / dist artifacts
+dist/
+.dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML / large binaries
+*.dll
+*.pyd
+*.so
+
+# OS junk
+.DS_Store
+Thumbs.db

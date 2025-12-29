@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+google-api-python-client
+langchain-core
+langchain-groq
+langchain-community
+duckduckgo-search
+pytrends
+tensorflow
+opencv-python-headless
+pillow
+scikit-learn
+plotly
+python-dotenv
+requests
