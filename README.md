@@ -260,10 +260,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/youtube-viral-predictor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/youtube-viral-predictor/discussions)
-
----
+- **Issues**: [GitHub Issues](https://github.com/sujansubedi89/youtube-trend/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/sujansubedi89/youtube-trend/discussions)
+## 🔗 Demo
+Try the live demo here: (sujan-youtube-trend.streamlit.app)
 
 ## 🌟 Star History
 
@@ -274,3 +274,4 @@ If this project helped you, consider giving it a ⭐!
 **Built with ❤️ for YouTube creators exploring AI and data science**
 
 *Last updated: December 2024*
+
